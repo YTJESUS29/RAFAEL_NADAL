@@ -2,7 +2,7 @@
 marp: true
 theme: default
 paginate: true
-backgroundImage: url(https://upload.wikimedia.org/wikipedia/commons/5/5a/Rafael_Nadal_Rolex_Masters_2009_%28cropped%29.jpg)
+backgroundImage: url(img/banner.jpg)
 backgroundSize: cover
 ---
 
