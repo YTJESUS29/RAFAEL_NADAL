@@ -96,9 +96,9 @@ backgroundSize: cover
 
 # 📸 Imágenes  
 
-![Rafael Nadal en acción](https://upload.wikimedia.org/wikipedia/commons/5/5a/Rafael_Nadal_Rolex_Masters_2009_%28cropped%29.jpg)  
+![Rafael Nadal en acción](img/accion.jpg)  
 
-![Rafael Nadal celebrando un título](https://upload.wikimedia.org/wikipedia/commons/2/2e/Nadal_Australian_Open_2009.jpg)  
+![Rafael Nadal celebrando un título](img/australia.jpg)  
 
 ---
 
